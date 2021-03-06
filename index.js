@@ -10,25 +10,25 @@ lolcatjs.options.colors = true;
 CFonts.say('[ROOT] STARTING BOT...', {
 font: 'console',
 align: 'left',
-gradient: ['magenta', 'red']
+gradient: ['blue', 'red']
 })
 
-CFonts.say('----------------- FARHANXCODE7 -----------------', {
+CFonts.say('----------------- MS_BOT -----------------', {
     font: 'console',
     align: 'center',
-    gradient: ['red', 'yellow']
+    gradient: ['blue', 'green']
 })
-CFonts.say('Welcome In\nTermux Bot Wa', {
+CFonts.say('Welcome In\nMS BOT WA', {
   font: 'chrome',
   align: 'center',
-  gradient: ['red', 'magenta']
+  gradient: ['blue', 'green']
 })
 function start() {
   let args = [path.join('Fxc7.js'), ...process.argv.slice(2)]
   CFonts.say([process.argv[0], ...args].join(' '), {
     font: 'console',
     align: 'center',
-    gradient: ['red', 'magenta']
+    gradient: ['blue', 'green']
   })
   let p = spawn(process.argv[0], args, {
     stdio: ['inherit', 'inherit', 'inherit', 'ipc']
