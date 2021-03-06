@@ -1,16 +1,9 @@
 // menu fitur bot
 const a = '```'
-const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam, tanggal, groupName, premi, Simihh, Welcomee, ModeAnime, Nsfww, BadWordd, AntiLinkk, AntiVirtexx) => { 
+const help = (prefix, name, pushname2, user, limitt, uptime, jam, tanggal, groupName, premi, Simihh, Welcomee, ModeAnime, Nsfww, BadWordd, AntiLinkk, AntiVirtexx) => { 
 	return `
 	
-${a}Follow My Instagram${a}
-${instagram}
 
-
-
-
-${a}My Youtube${a}
-${yt}
 
 ${a}UNTUK FITUR TERUPDATE SILAHKAN KETIK${a} *${prefix}infobot*
 
