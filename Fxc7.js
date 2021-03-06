@@ -123,8 +123,8 @@ function kyun(seconds){
   return `${pad(hours)} Jam ${pad(minutes)} Menit ${pad(seconds)} Detik`
 }
 function tanggal(){
-myMonths = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
-			myDays = ['Minggu','Senin','Selasa','Rabu','Kamis','Jum at','Sabtu'];
+myMonths = ["Januari","Februari","March","April","May","June","July","August","September","October","November","December"];
+			myDays = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
 			var tgl = new Date();
 			var day = tgl.getDate()
 			bulan = tgl.getMonth()
