@@ -1,5 +1,5 @@
 {
-  "name": "termux-bot-wa",
+  "name": "ms-bot",
   "version": "0.0.2",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "FarhanXCo",
+  "author": "shameem",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
@@ -56,10 +56,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fxc7/termux-bot-wa.git"
+    "url": "git+https://github.com/SHAMEEMms/termux-bot-wa.git"
   },
   "bugs": {
-    "url": "https://github.com/Fxc7/termux-bot-wa/issues"
+    "url": "https://github.com/SHAMEEMms/termux-bot-wa/issues"
   },
-  "homepage": "https://github.com/Fxc7/termux-bot-wa#readme"
+  "homepage": "https://github.com/SHAMEEMms/termux-bot-wa#readme"
 }
