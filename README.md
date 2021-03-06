@@ -26,7 +26,7 @@ Follow The Steps Below!
 > pkg upgrade -y
 > pkg install python -y
 > pkg install git -y
-> git clone https://github.com/SHAMEEMms/termux-bot-wa
+> git clone https://github.com/SHAMEEMms/MS_BOT
 > cd termux-bot-wa
 > bash install.sh
 > npm start
