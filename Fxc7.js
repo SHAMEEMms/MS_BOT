@@ -140,7 +140,7 @@ return '```' + string + '```'
 }
 
 function addMetadata(packname, author) {
-				if (!packname) packname = 'termux-bot-wa'; if (!author) author = ' Fxc7';
+				if (!packname) packname = 'ms_bot'; if (!author) author = ' shameem';
 				author = author.replace(/[^a-zA-Z0-9]/g, '');
 				let name = `${author}_${packname}`
 
